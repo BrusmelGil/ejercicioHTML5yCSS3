@@ -3,3 +3,37 @@
     padding: 0;
 }
 
+h1 {
+    text-align: center;
+    margin-top: 3.5%;
+    margin-bottom: 4%;
+    font-size: 3em;
+}
+
+h2 {
+    background: rgba(128, 128, 128, 0.671);
+    padding: 1.2%;
+    font-size: xx-large;
+    margin-bottom: 2%;
+    display: flex;
+    width: 70%;
+   margin-left: 15%;
+
+}
+
+img {
+    width: 20%;
+    display: flex;
+    margin-left: 25%; 
+    float: left;
+
+
+}
+
+p{
+    text-align: justify;
+    font-size:1.2rem;
+    margin-bottom: 1.5%;
+    margin-right: 15%;
+    margin-left: 20%;
+}
